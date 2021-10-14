@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/cmark/binary-arithmetic/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/binary-arithmetic.dir/src/main.cpp.o -c /mnt/c/Users/cmark/binary-arithmetic/src/main.cpp",
+  "file": "/mnt/c/Users/cmark/binary-arithmetic/src/main.cpp"
+}
+]
